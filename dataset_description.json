@@ -24,7 +24,9 @@
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": "",
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1371/journal.pone.0204338"
+    ],
     "DatasetDOI": "10.18112/openneuro.ds001419.v1.0.1",
     "BIDSVersion": "1.0.0rc4",
     "ReferenceAndLinks": [
